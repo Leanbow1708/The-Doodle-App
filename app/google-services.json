@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526368627707",
+    "firebase_url": "https://doodle-app-7a602.firebaseio.com",
+    "project_id": "doodle-app-7a602",
+    "storage_bucket": "doodle-app-7a602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526368627707:android:b265dcaae05620f5c0495e",
+        "android_client_info": {
+          "package_name": "com.mayank.doodleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526368627707-5ovsdgakskukon2cqul70mr7grtjegnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayank.doodleapp",
+            "certificate_hash": "6cde393370aeed157d243c71310a43e9e59cbd11"
+          }
+        },
+        {
+          "client_id": "526368627707-tidg3nfp7744u9u56go5e59lg96jvuo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX8FB9HPj82LhLMgXRYiK3fJdRYuz4es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526368627707-tidg3nfp7744u9u56go5e59lg96jvuo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
